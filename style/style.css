@@ -195,11 +195,11 @@ footer{
     };
 
     .main-text {
-        padding: 10px 0;
+        padding: 100px 0;
     }
     
     .title-main-text {
-        font-size: 4rem;
+        font-size: 1rem;
     }
     
     .sub-main-text {
