@@ -195,11 +195,15 @@ footer{
     };
 
     .main-text {
+        background: white;  
+    }
+
+    .main-text {
         padding: 100px 0;
     }
     
     .title-main-text {
-        font-size: 1rem;
+        font-size: 4rem;
     }
     
     .sub-main-text {
