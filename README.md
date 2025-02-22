@@ -1,4 +1,4 @@
-# Iglesia Jesús Único Salvador (IJUs) - Webpage
+# Iglesia Jesús Único Salvador (IJUS) - Webpage
 
 Página web de la iglesia Jesús Único Salvador (IJUS). Este projecto fue completamente hecho con HTML y CSS unicamente.
 
